@@ -1,2 +1,2 @@
 # hello-word
-the first one 
+System.out.println("hello Word");
